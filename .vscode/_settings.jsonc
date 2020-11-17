@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+        "*.vue": "vue",
+        "*.wxml": "html",
+        "*.wxss": "css"
+      },
+      "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.po": true,
+        "**/*.ibc": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true,
+        "**/node_modules/*": true
+      },
+      // 在使用搜索功能时，将这些文件夹/文件排除在外
+      "search.exclude": {
+        "**/node_modules": true,
+        "**/target": true,
+        "**/logs": true
+      },
+      "files.watcherExclude": {
+        "**/node_modules/*/**": true,
+        "**/*.ibc": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+      }
+}
