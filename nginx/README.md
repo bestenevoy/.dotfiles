@@ -10,5 +10,5 @@
 ```shell
 cd /usr/local/etc/nginx
 sudo vim nginx.conf
-# add: include ~/.dotfiles/nginx/servers/*;
+# add: include /Users/wrz/.dotfiles/nginx/servers/*;
 ```
