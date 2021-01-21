@@ -2,12 +2,12 @@
 
 ### cli shortcuts
 
-alt + w: delete all
-ctrl + w: delete word
-ctrl + a: line start
-ctrl + d: EOF
+alt + w: delete all<br>
+ctrl + w: delete word<br>
+ctrl + a: line start<br>
+ctrl + d: EOF<br>
 
-### git shortcuts
+### [git shortcuts](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh)
 
 | Alias | command |
 |:---- |:--------------------------------|
