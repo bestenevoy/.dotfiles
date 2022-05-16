@@ -1,3 +1,5 @@
 # .dotfile
-wrz
+
+> bestenevoy
+
 `~/.dotfile`
